@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/walking-on-air/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Walking On Air](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/walking-on-air/) |
+| **Get License** | [Get a Licensing Quote for Walking On Air](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/walking-on-air/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `eb559a832042d11e008e4decb9380a7a40f9f8d2bd37cb30de24fe6db97f2276` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
